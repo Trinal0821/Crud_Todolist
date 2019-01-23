@@ -1,0 +1,126 @@
+/* textcolor */
+color: green;
+/*Text Align  */
+text-align: center;
+text-align: left;
+text-align: right;
+text-align: justify;
+/* Text Decoration */
+text-decoration: underline;
+text-decoration:overline;
+text-decoration: line-through;
+text-decoration: underline;
+/* text shadow */
+text-shadow: 3px 3px red;
+/* font family */
+font-family: "Times New Roman", times, serif;
+/* font style */
+font-style: bold;
+font-style: italic;
+font-style: oblique;
+/* font size */
+font-size: 30 px:
+/* font weight */
+font-weight:  bold; 
+font-weight: normal;
+font-weight: 300; 
+
+/* background */
+/* background color */
+background-color: blue;
+background: blue;
+/* background image */
+background-image: url("path-to-img.filetype");
+/*background position  */
+background-position: right top; 
+
+/* box model */
+
+/* border */
+border-style: solid;
+    /* 
+    dashed 
+    solid
+    double 
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden 
+    */
+    border width: 5px:
+    border-style: solid;
+    border-color: green;
+    border: 5px solid green;
+
+/* margin */
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+margin-left: 10px;
+margin: 10px 20px 30px 40px
+margin: 25px 50px 75px;
+margin 25px 10px;
+margin: 0 auto;
+margin: 25px;
+
+/* padding */
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 30px;
+padding-left: 40px;
+padding: 20px 20px 30px 40px;
+padding: 20px 10px 30px;
+padding: 30px
+
+/* width and height */
+width: 500px;
+height: 100%;
+/* Float */
+float: right;
+float: left;
+float: none;
+
+/* Opacity */
+opacity: 0;
+opacity: 0.5;
+ocapity: 1;
+
+/* colors */
+    /* name */
+    blue 
+    red 
+    green 
+    pink
+
+    /* hex */
+    #fff
+    #ff1232
+
+    /* rgb */
+    rgb(255, 255, 255);
+
+    /* rgba */
+    rgb(255, 255, 255, 0.5);
+
+    /* hsl (hue, saturation, light) */
+    hsl(7, 10%, 40%);
+
+    /* hsla */
+    hsla (7, 10%, 40% 0.2);
+
+/* Units */
+px
+pathcm
+in 
+mm 
+pc 
+%
+ex 
+ch 
+rem 
+vh
+vw 
+ vmin 
+ vmax
